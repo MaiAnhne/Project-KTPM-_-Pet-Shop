@@ -1,7 +1,7 @@
-<<<<<<< HEAD
+
 # Shop Thú Cưng
 
-## 👤 Thông tin nhóm sinh viên
+##  Thông tin nhóm sinh viên
 
 - **Nguyễn Mai Anh** - Mã sinh viên: 23010490  
 - **Bạch Phương Linh** - Mã sinh viên: 23010562  
@@ -31,7 +31,7 @@ Với giao diện thân thiện, dễ sử dụng và hình ảnh sinh động, 
 
 ---
 
-## ⚙️ Các chức năng chính
+##  Các chức năng chính
 
 1. **Xác thực và định danh**  
    - Sử dụng `Auth` để bảo vệ route và phân quyền  
