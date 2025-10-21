@@ -69,7 +69,7 @@ Với giao diện thân thiện, dễ sử dụng và hình ảnh sinh động, 
 
 ---
 ## Về mặt công nghệ phần mềm:
--
+- ![Image](Cnsd.jpg)
 ## Class Diagram:
 - ![Image](cd.jpg)
 
@@ -80,7 +80,7 @@ Với giao diện thân thiện, dễ sử dụng và hình ảnh sinh động, 
 
 ```bash
 # Clone repo
-git clone [link repo]
+git clone [link repo] 
 cd [tên thư mục]
 
 # Cài đặt dependencies
