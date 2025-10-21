@@ -71,11 +71,10 @@ Với giao diện thân thiện, dễ sử dụng và hình ảnh sinh động, 
 ## Về mặt công nghệ phần mềm:
 -
 ## Class Diagram:
--
+- ![Image](cd.jpg)
+
 ## Sequence Diagram: 
--
-
-
+- ![Image](SD.jpg)
 
 ##  Cách chạy dự án
 
