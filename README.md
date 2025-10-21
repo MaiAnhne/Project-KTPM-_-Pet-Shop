@@ -80,8 +80,8 @@ Với giao diện thân thiện, dễ sử dụng và hình ảnh sinh động, 
 
 ```bash
 # Clone repo
-git clone [link repo] 
-cd [tên thư mục]
+git clone [link repo] : **https://github.com/MaiAnhne/Project-KTPM-_-Pet-Shop.git**
+cd [tên thư mục] 
 
 # Cài đặt dependencies
 composer install
