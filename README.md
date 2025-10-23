@@ -63,38 +63,8 @@ Với giao diện thân thiện, dễ sử dụng và hình ảnh sinh động, 
    - Sử dụng dịch vụ database cloud  
    - Sử dụng `.env` để cấu hình kết nối cloud database  
    - Migrate và seed dữ liệu trực tiếp bằng lệnh:  
-     ```bash
-     php artisan migrate --seed
-     ```
-
----
-## Về mặt công nghệ phần mềm:
-- ![Image](Cnsd.jpg)
-## Class Diagram:
-- ![Image](cd.jpg)
-
-## Sequence Diagram: 
-- ![Image](SD.jpg)
-
-##  Cách chạy dự án
-
-```bash
-# Clone repo
-git clone [link repo] : **https://github.com/MaiAnhne/Project-KTPM-_-Pet-Shop.git**
-cd [tên thư mục] 
-
-# Cài đặt dependencies
-composer install
-
-# Copy file môi trường và chỉnh sửa thông tin DB
-cp .env.example .env
-# Chỉnh sửa .env theo thông tin database
-
-# Tạo key ứng dụng
-php artisan key:generate
-
-# Migrate & seed database
-php artisan migrate --seed
+     ```baweb
+php artisan storage:link
 
 # Chạy ứng dụng
 php artisan serve
