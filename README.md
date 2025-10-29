@@ -63,9 +63,20 @@ Với giao diện thân thiện, dễ sử dụng và hình ảnh sinh động, 
    - Sử dụng dịch vụ database cloud  
    - Sử dụng `.env` để cấu hình kết nối cloud database  
    - Migrate và seed dữ liệu trực tiếp bằng lệnh:  
-     ```baweb
-php artisan storage:link
+      ```bash
+     php artisan migrate --seed
+     ```
+## Class Diagram
 
-# Chạy ứng dụng
+## 
+## Chạy ứng dụng
+# Clone repo
+git clone [link repo]
+cd [tên thư mục]
+
+# Cài đặt dependencies
+composer install
+# Cấu hình ảnh trực tiếp từ web 
+php artisan storage:link
+# Khởi chạy dự án
 php artisan serve
-=======
