@@ -66,9 +66,15 @@ Với giao diện thân thiện, dễ sử dụng và hình ảnh sinh động, 
       ```bash
      php artisan migrate --seed
      ```
-## Class Diagram
+## Công nghệ sử dụng:
+-
 
-## 
+## Class Diagram:
+- 
+
+## Use case:
+-
+
 ## Chạy ứng dụng
 # Clone repo
 git clone [link repo]
