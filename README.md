@@ -67,13 +67,13 @@ Với giao diện thân thiện, dễ sử dụng và hình ảnh sinh động, 
      php artisan migrate --seed
      ```
 ## Công nghệ sử dụng:
--
+- ![Image](Cnsd.jpg)
 
 ## Class Diagram:
-- 
+- ![Image](cd.jpg)
 
 ## Use case:
--
+- ![Image](SD.jpg)
 
 ## Chạy ứng dụng
 # Clone repo
