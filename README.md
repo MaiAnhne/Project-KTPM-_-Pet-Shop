@@ -76,13 +76,24 @@ Với giao diện thân thiện, dễ sử dụng và hình ảnh sinh động, 
 - ![Image](SD.jpg)
 
 ## Chạy ứng dụng
-# Clone repo
+**Clone repo**
+ ```bash
 git clone [link repo]
+ ```
+ ```bash
 cd [tên thư mục]
+ ```
 
-# Cài đặt dependencies
+**Cài đặt dependencies**
+ ```bash
 composer install
-# Cấu hình ảnh trực tiếp từ web 
+ ```
+**Cấu hình ảnh trực tiếp từ web**
+```bash
 php artisan storage:link
-# Khởi chạy dự án
+ ```
+
+**Khởi chạy dự án**
+```bash
 php artisan serve
+ ```
