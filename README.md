@@ -5,7 +5,8 @@
 
 - **Nguyễn Mai Anh** - Mã sinh viên: 23010490  
 - **Bạch Phương Linh** - Mã sinh viên: 23010562  
-- **Nguyễn Dương Ngọc Ánh** - Mã sinh viên: 23011500  
+- **Đặng Việt Dũng** - Mã sinh viên: 23010491
+- **Nguyễn Thị Mai Phương** - Mã sinh viên: 23010537
 
 ---
 
